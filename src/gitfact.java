@@ -17,6 +17,7 @@ public class gitfact {
 		
 	}
 	public static void main(String[] args) {
+		// minor change to check the commit
 		
 		gitfact a = new gitfact();
 		System.out.println("Hello Java");
